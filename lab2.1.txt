@@ -1,0 +1,17 @@
+execve
+brk
+access
+mmap
+open
+fstat
+close
+read
+fstat
+mprotect
+arch_prctl
+mprotect
+munmap
+write
+exit_group
++++ exited with 0 +++
+
